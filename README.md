@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0136-single-number) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -87,8 +89,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
