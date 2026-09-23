@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0079-word-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
