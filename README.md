@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0079-word-search](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
