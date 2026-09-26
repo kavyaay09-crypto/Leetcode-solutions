@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/kavyaay09-crypto/Leetcode-solutions/tree/master/0704-binary-search) |
 ## Pigeonhole Principle
 |  |
 | ------- |
